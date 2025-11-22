@@ -22,7 +22,7 @@ String Value = jsonEncode(Info);
 
 - 🧠 Bug bounty hunter | Ethical hacker  
 - 🔧 Building tools for Telegram, Instagram, and Discord  
-- 🥷 Hacked 200+ sites (legally)  
+- 🥷 Web Developer
 - 👨‍🎓 Certified: OSWAP, eJPT, WAPT  
 - 🎧 Discord / Telegram Bot Dev
 
@@ -171,13 +171,13 @@ String Value = jsonEncode(Info);
 ## Devices
 
 
-- ![Intel Core i9-10980HK 10th Gen](https://img.shields.io/badge/Intel%20Core%20i9--10980HK%2010th%20Gen-ffffff?logo=intel&style=for-the-badge&color=0071C5&logoColor=ffffff) ![RTX 2080 Super Max-Q GDDR6 8GB Graphics](https://img.shields.io/badge/RTX%202080%20Super%20Max--Q%20GDDR6%208GB%20Graphics-ffffff?logo=nvidia&style=for-the-badge&color=76B900&logoColor=ffffff) ![Kingston 32GB DDR4 3200MHz SODIMM Memory](https://img.shields.io/badge/Kingston%2032GB%20DDR4%203200MHz%20SODIMM%20Memory-ffffff?logo=kingstontechnology&style=for-the-badge&color=000000&logoColor=ffffff) ![WD SN750 M.2 PCIe NVMe 1 TB](https://img.shields.io/badge/WD%20SN750%20M.2%20PCIe%20NVMe%201%20TB-ffffff?logo=westerndigital&style=for-the-badge&color=000000&logoColor=ffffff) ![Seagate Barracuda Pro SATA 1TB 7200RPM 6Gb/s 128MB Cache](https://img.shields.io/badge/Seagate%20Barracuda%20Pro%20SATA%201TB%207200RPM%206Gb/s%20128MB%20Cache-ffffff?logo=seagate&style=for-the-badge&color=6EBE49&logoColor=ffffff) ![1920 x 1080 @ 300 Hz](https://img.shields.io/badge/1920%20x%201080%20@%20300%20Hz-ffffff?logo=asus&style=for-the-badge&color=000000&logoColor=ffffff) ![1920 x 1080 @ 144 Hz](https://img.shields.io/badge/1920%20x%201080%20@%20144%20Hz-ffffff?logo=lg&style=for-the-badge&color=A50034&logoColor=ffffff)
+- ![Intel Core i7-13450H 13th Gen](https://img.shields.io/badge/Intel%20Core%20i9--10980HK%2010th%20Gen-ffffff?logo=intel&style=for-the-badge&color=0071C5&logoColor=ffffff) ![RTX 4070 Max-Q GDDR6 8GB Graphics](https://img.shields.io/badge/RTX%202080%20Super%20Max--Q%20GDDR6%208GB%20Graphics-ffffff?logo=nvidia&style=for-the-badge&color=76B900&logoColor=ffffff) ![Kingston 64GB DDR5 5200MHz SODIMM Memory](https://img.shields.io/badge/Kingston%2032GB%20DDR4%203200MHz%20SODIMM%20Memory-ffffff?logo=kingstontechnology&style=for-the-badge&color=000000&logoColor=ffffff) ![WD SN750 M.2 PCIe NVMe 1 TB](https://img.shields.io/badge/WD%20SN750%20M.2%20PCIe%20NVMe%201%20TB-ffffff?logo=westerndigital&style=for-the-badge&color=000000&logoColor=ffffff) ![Seagate Barracuda Pro SATA 1TB 7200RPM 6Gb/s 128MB Cache](https://img.shields.io/badge/Seagate%20Barracuda%20Pro%20SATA%201TB%207200RPM%206Gb/s%20128MB%20Cache-ffffff?logo=seagate&style=for-the-badge&color=6EBE49&logoColor=ffffff) ![1920 x 1080 @ 300 Hz](https://img.shields.io/badge/1920%20x%201080%20@%20300%20Hz-ffffff?logo=asus&style=for-the-badge&color=000000&logoColor=ffffff) ![1920 x 1080 @ 144 Hz](https://img.shields.io/badge/1920%20x%201080%20@%20144%20Hz-ffffff?logo=lg&style=for-the-badge&color=A50034&logoColor=ffffff)
 
 
 <br />
 
 
-- ![Intel Core i5-10300H Processor 10th Gen](https://img.shields.io/badge/Intel%20Core%20i5--10300H%20Processor%2010th%20Gen-ffffff?logo=intel&style=for-the-badge&color=0071C5&logoColor=ffffff) ![GTX 1650 Graphics 4.1GB Graphics](https://img.shields.io/badge/GTX%201650%20Graphics%204.1GB%20Graphics-ffffff?logo=nvidia&style=for-the-badge&color=76B900&logoColor=ffffff) ![CORSAIR Vengeance 8GB DDR4 3200MHz SODIMM Memory](https://img.shields.io/badge/CORSAIR%20Vengeance%208GB%20DDR4%203200MHz%20SODIMM%20Memory-ffffff?logo=corsair&style=for-the-badge&color=000000&logoColor=ffffff) ![Seagate Barracuda 510 M.2 PCIE NVME 3D TLC NAND 250GB](https://img.shields.io/badge/Seagate%20Barracuda%20510%20M.2%20PCIE%20NVME%203D%20TLC%20NAND%20250GB-ffffff?logo=seagate&style=for-the-badge&color=6EBE49&logoColor=ffffff) ![Seagate Barracuda SATA 1TB 5400 RPM 6 Gb/s 128MB Cache](https://img.shields.io/badge/Seagate%20Barracuda%20SATA%201TB%205400%20RPM%206%20Gb/s%20128MB%20Cache-ffffff?logo=seagate&style=for-the-badge&color=6EBE49&logoColor=ffffff) ![1920 x 1080 @ 60 Hz](https://img.shields.io/badge/1920%20x%201080%20@%2060%20Hz-ffffff?logo=msi&style=for-the-badge&color=FF0000&logoColor=ffffff)
+- ![Intel Core i3-10300H Processor 10th Gen](https://img.shields.io/badge/Intel%20Core%20i5--10300H%20Processor%2010th%20Gen-ffffff?logo=intel&style=for-the-badge&color=0071C5&logoColor=ffffff) ![GTX 1650 Graphics 4.1GB Graphics](https://img.shields.io/badge/GTX%201650%20Graphics%204.1GB%20Graphics-ffffff?logo=nvidia&style=for-the-badge&color=76B900&logoColor=ffffff) ![CORSAIR Vengeance 8GB DDR4 3200MHz SODIMM Memory](https://img.shields.io/badge/CORSAIR%20Vengeance%208GB%20DDR4%203200MHz%20SODIMM%20Memory-ffffff?logo=corsair&style=for-the-badge&color=000000&logoColor=ffffff) ![Seagate Barracuda 510 M.2 PCIE NVME 3D TLC NAND 250GB](https://img.shields.io/badge/Seagate%20Barracuda%20510%20M.2%20PCIE%20NVME%203D%20TLC%20NAND%20250GB-ffffff?logo=seagate&style=for-the-badge&color=6EBE49&logoColor=ffffff) ![Seagate Barracuda SATA 1TB 5400 RPM 6 Gb/s 128MB Cache](https://img.shields.io/badge/Seagate%20Barracuda%20SATA%201TB%205400%20RPM%206%20Gb/s%20128MB%20Cache-ffffff?logo=seagate&style=for-the-badge&color=6EBE49&logoColor=ffffff) ![1920 x 1080 @ 60 Hz](https://img.shields.io/badge/1920%20x%201080%20@%2060%20Hz-ffffff?logo=msi&style=for-the-badge&color=FF0000&logoColor=ffffff)
 
 
 <br />
@@ -190,7 +190,7 @@ String Value = jsonEncode(Info);
 
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
